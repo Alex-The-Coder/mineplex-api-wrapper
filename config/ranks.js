@@ -16,18 +16,17 @@ module.exports = {
         'TRAINEE',
         'MOD',
         'CMA',
+        'QA',
         'SR.MOD',
         'C.MOD',
         'SUPPORT',
-        'JR.DEV',
         'ADMIN',
         'DEV',
-        'LEADER',
+        'LT',
         'OWNER'
     ],
     convert: {
         'NONE'          : 'PLAYER',
-        'ALL'           : 'PLAYER',
 
         'MOOTUBE'       : 'YT',
         'YOUTUBESMALL'  : 'YT',
@@ -48,11 +47,8 @@ module.exports = {
 
         'CMOD'          : 'C.MOD',
 
-        'JRDEV'         : 'JR.DEV',
-        'JNRDEV'        : 'JR.DEV',
-
         'DEVELOPER'     : 'DEV',
 
-        'LT'            : 'LEADER'
+        'LEADER'            : 'LT'
     }
 };
