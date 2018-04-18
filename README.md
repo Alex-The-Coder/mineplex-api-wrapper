@@ -1,4 +1,4 @@
-#Mineplex API Wrapper
+# Mineplex API Wrapper
 Wrapper for the module `mineplex-api` (which is also a wrapper). Weird.
 
 ```
@@ -13,11 +13,11 @@ api.getPlayerInfo('Artix', (err, res)=>{
 });
 ```
 
-#Installation
+# Installation
 
 `$npm install mineplex-api-wrapper`
 
-#"Features"
+# "Features"
 
 * Prettified methods for `mineplex-api` so your code makes slightly more sense
 * Rank name conversion, rank permission checking
